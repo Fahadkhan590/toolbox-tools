@@ -1,11 +1,8 @@
 # Toolbox Tools
 
-> A curated directory of online utilities and developer tools.
+> A curated directory of online developer utilities, web tools, coding resources, and digital creator toolkits.
 
-A lightning-fast, premium collection of digital web utilities for creators, developers, and daily tasks.
+## Resources & Links
 
-## Tools List
-- Image Background Tools & Compressors
-- Audio, Video, & Document Converters
-- Text Formatting Tools
-- Coding Formatters
+- [Home](https://toolboxtools.netlify.app/)
+- [Sitemap](https://toolboxtools.netlify.app/sitemap.xml)
