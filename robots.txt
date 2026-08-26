@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://toolboxtools.netlify.app/sitemap.xml

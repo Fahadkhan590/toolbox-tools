@@ -1,0 +1,4 @@
+# Authorized Digital Sellers (ads.txt) for toolboxtools.netlify.app
+# Replace YOUR_PUBLISHER_ID with your actual Montage network publisher ID
+
+montagenetwork.com, YOUR_PUBLISHER_ID, DIRECT, f08c47fec0942fa0
